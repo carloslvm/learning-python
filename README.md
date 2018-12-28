@@ -8,6 +8,4 @@ did from many python books and codes created by me
 using my imagination.
 
 You may find some codes that are not either well
-designed or clean enough because as I mentioned,
-these are my first steps in my progamming learning
-journey.
+designed or clean enough.
