@@ -1,0 +1,19 @@
+	"Learning Python"
+
+Data structures.
+Manipulating strings.
+Working with list.
+Working with dictionaries.
+Modules (functions).
+Difference between for loop and while loop.
+Using if and else statements.
+Using "and" and "or" statements.
+Math operators.
+Scape codes.
+Files and Exceptions.
+Classes.
+Modules (classes).
+Importing modules and classes.
+Importing functions.
+Manpulating Python Shell.
+Inheritance.
