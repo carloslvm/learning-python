@@ -1,6 +1,6 @@
 # Important Note
 
-The .txt files were creating for practicing this topic.
+The .txt files were created for practicing this topic.
 Some of them were created during the exercises.
 
 ## List of Current .txt Files
