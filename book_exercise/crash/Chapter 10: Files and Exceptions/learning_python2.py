@@ -3,5 +3,5 @@
 filename = 'learned.txt'
 
 with open(filename) as text:
-	content = text.read()
-	print(content)
+    content = text.read()
+    print(content)

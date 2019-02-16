@@ -3,9 +3,9 @@
 filename = 'learned.txt'
 
 with open(filename) as text:
-	content = text.readlines()
+    content = text.readlines()
 
 for line in content:
-	print(line)
+    print(line)
 
 print(len(content))
