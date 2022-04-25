@@ -14,13 +14,13 @@ class Employee():
         return emp_salary
 
 #Instance
-#emp_1 = Employee('david', 'smith', 2000)
+emp_1 = Employee('david', 'smith', 2000)
 
 #Access to attributes
-#first_name = emp_1.first.title()
-#last_name = emp_1.last.title()
-#salary = emp_1.annual_salary
-#print(first_name + ' ' + last_name + ': ' + repr(salary))
+first_name = emp_1.first.title()
+last_name = emp_1.last.title()
+salary = emp_1.annual_salary
+print(first_name + ' ' + last_name + ': ' + repr(salary))
 
 #Access to methods
-#print(emp_1.give_raise())
+print(emp_1.give_raise().title())
