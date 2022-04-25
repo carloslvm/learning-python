@@ -16,3 +16,5 @@ for calculate in range(1, 101):
 print('There are', count, 'numbers with remainder 4.')
 
 print('There are', num, 'numbers with remainder 9.')
+
+# Another basic math exercise with python
